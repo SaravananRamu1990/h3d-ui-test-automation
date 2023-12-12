@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests">
+    <suite-files>
+        <suite-file path="C:\Users\saravanan.ramu\Desktop\h3-ui-automation\src\test\resources\suitefiles\LoginTest.xml"></suite-file>
+    </suite-files> <!-- Test -->
+</suite> <!-- Suite -->

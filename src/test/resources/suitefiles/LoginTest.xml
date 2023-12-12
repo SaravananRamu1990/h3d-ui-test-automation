@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+    <test name="LoginPostive">
+        <parameter name="browserName" value="chrome"/>
+        <parameter name="testCase" value="TC01"/>
+        <classes>
+            <class name="com.h3d.ui.testScripts.LoginTest"/>
+        </classes>
+    </test>
+
+<test name="LoginNegative">
+    <parameter name="browserName" value="chrome"/>
+        <parameter name="testCase" value="TC02"/>
+    <classes>
+       <class name="com.h3d.ui.testScripts.LoginTest"/>
+   </classes>
+</test>
+</suite>

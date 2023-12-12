@@ -1,0 +1,455 @@
+2023-12-12 13:00:13,185 - com.h3d.ui.base.BaseTest -ERROR - Unable to launch the browser org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 120.0.6099.71 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe 
+Host info: host: 'ATMECSBLRLT-234', ip: '60.60.60.70'
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*], extensions: []}}]}]
+2023-12-12 13:00:16,620 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //input[@id='formEmail'] element is NOT Present :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.h3d.ui.utilities.Helpers.driver" is null
+2023-12-12 13:00:16,622 - com.h3d.ui.utilities.Helpers -ERROR - unable to enter thenull into the textBox
+2023-12-12 13:00:16,623 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //input[@id='formPassword'] element is NOT Present :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.h3d.ui.utilities.Helpers.driver" is null
+2023-12-12 13:00:16,623 - com.h3d.ui.utilities.Helpers -ERROR - unable to enter thenull into the textBox
+2023-12-12 13:00:16,627 - com.h3d.ui.utilities.Helpers -ERROR - unable to click By.xpath: //label[text()='Password']//following::button[text()='Submit']java.lang.IllegalArgumentException: Driver must be set
+2023-12-12 13:00:16,627 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //input[@id='formEmail']//preceding::div//img element is NOT Present :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.h3d.ui.utilities.Helpers.driver" is null
+2023-12-12 13:00:19,693 - com.h3d.ui.base.BaseTest -ERROR - Unable to launch the browser org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 120.0.6099.71 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe 
+Host info: host: 'ATMECSBLRLT-234', ip: '60.60.60.70'
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*], extensions: []}}]}]
+2023-12-12 13:00:19,819 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //input[@id='formEmail'] element is NOT Present :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.h3d.ui.utilities.Helpers.driver" is null
+2023-12-12 13:00:19,820 - com.h3d.ui.utilities.Helpers -ERROR - unable to enter thenull into the textBox
+2023-12-12 13:00:19,820 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //input[@id='formPassword'] element is NOT Present :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.h3d.ui.utilities.Helpers.driver" is null
+2023-12-12 13:00:19,820 - com.h3d.ui.utilities.Helpers -ERROR - unable to enter thenull into the textBox
+2023-12-12 13:00:19,820 - com.h3d.ui.utilities.Helpers -ERROR - unable to click By.xpath: //label[text()='Password']//following::button[text()='Submit']java.lang.IllegalArgumentException: Driver must be set
+2023-12-12 13:00:19,821 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //input[@id='formEmail']//preceding::div//img element is NOT Present :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.h3d.ui.utilities.Helpers.driver" is null
+2023-12-12 13:07:18,422 - com.h3d.ui.base.BaseTest -ERROR - Unable to launch the browser org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 120.0.6099.71 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe 
+Host info: host: 'ATMECSBLRLT-234', ip: '60.60.60.70'
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*], extensions: []}}]}]
+2023-12-12 13:07:21,213 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //input[@id='formEmail'] element is NOT Present :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.h3d.ui.utilities.Helpers.driver" is null
+2023-12-12 13:07:21,214 - com.h3d.ui.utilities.Helpers -ERROR - unable to enter thenull into the textBox
+2023-12-12 13:07:21,214 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //input[@id='formPassword'] element is NOT Present :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.h3d.ui.utilities.Helpers.driver" is null
+2023-12-12 13:07:21,214 - com.h3d.ui.utilities.Helpers -ERROR - unable to enter thenull into the textBox
+2023-12-12 13:07:21,216 - com.h3d.ui.utilities.Helpers -ERROR - unable to click By.xpath: //label[text()='Password']//following::button[text()='Submit']java.lang.IllegalArgumentException: Driver must be set
+2023-12-12 13:07:21,216 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //input[@id='formEmail']//preceding::div//img element is NOT Present :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.h3d.ui.utilities.Helpers.driver" is null
+2023-12-12 13:07:24,173 - com.h3d.ui.base.BaseTest -ERROR - Unable to launch the browser org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 120.0.6099.71 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe 
+Host info: host: 'ATMECSBLRLT-234', ip: '60.60.60.70'
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*], extensions: []}}]}]
+2023-12-12 13:07:24,266 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //input[@id='formEmail'] element is NOT Present :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.h3d.ui.utilities.Helpers.driver" is null
+2023-12-12 13:07:24,266 - com.h3d.ui.utilities.Helpers -ERROR - unable to enter thenull into the textBox
+2023-12-12 13:07:24,266 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //input[@id='formPassword'] element is NOT Present :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.h3d.ui.utilities.Helpers.driver" is null
+2023-12-12 13:07:24,267 - com.h3d.ui.utilities.Helpers -ERROR - unable to enter thenull into the textBox
+2023-12-12 13:07:24,267 - com.h3d.ui.utilities.Helpers -ERROR - unable to click By.xpath: //label[text()='Password']//following::button[text()='Submit']java.lang.IllegalArgumentException: Driver must be set
+2023-12-12 13:07:24,267 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //input[@id='formEmail']//preceding::div//img element is NOT Present :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.h3d.ui.utilities.Helpers.driver" is null
+2023-12-12 13:22:46,918 - com.h3d.ui.base.BaseTest -ERROR - Unable to launch the browser org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 120.0.6099.71 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe 
+Host info: host: 'ATMECSBLRLT-234', ip: '60.60.60.70'
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*], extensions: []}}]}]
+2023-12-12 13:22:49,902 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //input[@id='formEmail'] element is NOT Present :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.h3d.ui.utilities.Helpers.driver" is null
+2023-12-12 13:22:49,902 - com.h3d.ui.utilities.Helpers -ERROR - unable to enter thenull into the textBox
+2023-12-12 13:22:49,903 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //input[@id='formPassword'] element is NOT Present :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.h3d.ui.utilities.Helpers.driver" is null
+2023-12-12 13:22:49,903 - com.h3d.ui.utilities.Helpers -ERROR - unable to enter thenull into the textBox
+2023-12-12 13:22:49,908 - com.h3d.ui.utilities.Helpers -ERROR - unable to click By.xpath: //label[text()='Password']//following::button[text()='Submit']java.lang.IllegalArgumentException: Driver must be set
+2023-12-12 13:22:49,908 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //input[@id='formEmail']//preceding::div//img element is NOT Present :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.h3d.ui.utilities.Helpers.driver" is null
+2023-12-12 13:22:53,416 - com.h3d.ui.base.BaseTest -ERROR - Unable to launch the browser org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 120.0.6099.71 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe 
+Host info: host: 'ATMECSBLRLT-234', ip: '60.60.60.70'
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*], extensions: []}}]}]
+2023-12-12 13:22:53,543 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //input[@id='formEmail'] element is NOT Present :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.h3d.ui.utilities.Helpers.driver" is null
+2023-12-12 13:22:53,543 - com.h3d.ui.utilities.Helpers -ERROR - unable to enter thenull into the textBox
+2023-12-12 13:22:53,543 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //input[@id='formPassword'] element is NOT Present :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.h3d.ui.utilities.Helpers.driver" is null
+2023-12-12 13:22:53,544 - com.h3d.ui.utilities.Helpers -ERROR - unable to enter thenull into the textBox
+2023-12-12 13:22:53,545 - com.h3d.ui.utilities.Helpers -ERROR - unable to click By.xpath: //label[text()='Password']//following::button[text()='Submit']java.lang.IllegalArgumentException: Driver must be set
+2023-12-12 13:22:53,545 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //input[@id='formEmail']//preceding::div//img element is NOT Present :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.h3d.ui.utilities.Helpers.driver" is null
+2023-12-12 13:25:56,189 - com.h3d.ui.base.BaseTest -INFO - Launching the chrome browser
+2023-12-12 13:26:02,490 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //input[@id='formEmail'] element is NOT Present :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.h3d.ui.utilities.Helpers.driver" is null
+2023-12-12 13:26:02,491 - com.h3d.ui.utilities.Helpers -ERROR - unable to enter thenull into the textBox
+2023-12-12 13:26:02,491 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //input[@id='formPassword'] element is NOT Present :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.h3d.ui.utilities.Helpers.driver" is null
+2023-12-12 13:26:02,491 - com.h3d.ui.utilities.Helpers -ERROR - unable to enter thenull into the textBox
+2023-12-12 13:26:02,494 - com.h3d.ui.utilities.Helpers -ERROR - unable to click By.xpath: //label[text()='Password']//following::button[text()='Submit']java.lang.IllegalArgumentException: Driver must be set
+2023-12-12 13:26:02,494 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //input[@id='formEmail']//preceding::div//img element is NOT Present :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.h3d.ui.utilities.Helpers.driver" is null
+2023-12-12 13:26:03,166 - com.h3d.ui.base.BaseTest -INFO - The browser is closed
+2023-12-12 13:26:05,013 - com.h3d.ui.base.BaseTest -INFO - Launching the chrome browser
+2023-12-12 13:26:08,359 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //input[@id='formEmail'] element is NOT Present :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.h3d.ui.utilities.Helpers.driver" is null
+2023-12-12 13:26:08,360 - com.h3d.ui.utilities.Helpers -ERROR - unable to enter thenull into the textBox
+2023-12-12 13:26:08,361 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //input[@id='formPassword'] element is NOT Present :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.h3d.ui.utilities.Helpers.driver" is null
+2023-12-12 13:26:08,361 - com.h3d.ui.utilities.Helpers -ERROR - unable to enter thenull into the textBox
+2023-12-12 13:26:08,362 - com.h3d.ui.utilities.Helpers -ERROR - unable to click By.xpath: //label[text()='Password']//following::button[text()='Submit']java.lang.IllegalArgumentException: Driver must be set
+2023-12-12 13:26:08,362 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //input[@id='formEmail']//preceding::div//img element is NOT Present :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.h3d.ui.utilities.Helpers.driver" is null
+2023-12-12 13:26:08,922 - com.h3d.ui.base.BaseTest -INFO - The browser is closed
+2023-12-12 13:26:42,671 - com.h3d.ui.base.BaseTest -INFO - Launching the chrome browser
+2023-12-12 13:26:47,641 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //input[@id='formEmail'] element is NOT Present :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.h3d.ui.utilities.Helpers.driver" is null
+2023-12-12 13:26:47,642 - com.h3d.ui.utilities.Helpers -ERROR - unable to enter thenull into the textBox
+2023-12-12 13:26:47,642 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //input[@id='formPassword'] element is NOT Present :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.h3d.ui.utilities.Helpers.driver" is null
+2023-12-12 13:26:47,643 - com.h3d.ui.utilities.Helpers -ERROR - unable to enter thenull into the textBox
+2023-12-12 13:26:47,653 - com.h3d.ui.utilities.Helpers -ERROR - unable to click By.xpath: //label[text()='Password']//following::button[text()='Submit']java.lang.IllegalArgumentException: Driver must be set
+2023-12-12 13:26:47,654 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //input[@id='formEmail']//preceding::div//img element is NOT Present :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.h3d.ui.utilities.Helpers.driver" is null
+2023-12-12 13:26:48,188 - com.h3d.ui.base.BaseTest -INFO - The browser is closed
+2023-12-12 13:26:50,620 - com.h3d.ui.base.BaseTest -INFO - Launching the chrome browser
+2023-12-12 13:26:53,826 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //input[@id='formEmail'] element is NOT Present :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.h3d.ui.utilities.Helpers.driver" is null
+2023-12-12 13:26:53,827 - com.h3d.ui.utilities.Helpers -ERROR - unable to enter thenull into the textBox
+2023-12-12 13:26:53,827 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //input[@id='formPassword'] element is NOT Present :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.h3d.ui.utilities.Helpers.driver" is null
+2023-12-12 13:26:53,828 - com.h3d.ui.utilities.Helpers -ERROR - unable to enter thenull into the textBox
+2023-12-12 13:26:53,828 - com.h3d.ui.utilities.Helpers -ERROR - unable to click By.xpath: //label[text()='Password']//following::button[text()='Submit']java.lang.IllegalArgumentException: Driver must be set
+2023-12-12 13:26:53,829 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //input[@id='formEmail']//preceding::div//img element is NOT Present :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.h3d.ui.utilities.Helpers.driver" is null
+2023-12-12 13:26:54,293 - com.h3d.ui.base.BaseTest -INFO - The browser is closed
+2023-12-12 14:09:31,336 - com.h3d.ui.base.BaseTest -INFO - Launching the chrome browser
+2023-12-12 14:09:40,761 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //input[@id='formEmail'] element is NOT Present :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.h3d.ui.utilities.Helpers.driver" is null
+2023-12-12 14:09:40,763 - com.h3d.ui.utilities.Helpers -ERROR - unable to enter thenull into the textBox
+2023-12-12 14:09:43,766 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //input[@id='formPassword'] element is NOT Present :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.h3d.ui.utilities.Helpers.driver" is null
+2023-12-12 14:09:43,767 - com.h3d.ui.utilities.Helpers -ERROR - unable to enter thenull into the textBox
+2023-12-12 14:09:46,785 - com.h3d.ui.utilities.Helpers -ERROR - unable to click By.xpath: //label[text()='Password']//following::button[text()='Submit']java.lang.IllegalArgumentException: Driver must be set
+2023-12-12 14:09:46,786 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //input[@id='formEmail']//preceding::div//img element is NOT Present :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.h3d.ui.utilities.Helpers.driver" is null
+2023-12-12 14:09:47,225 - com.h3d.ui.base.BaseTest -INFO - The browser is closed
+2023-12-12 14:09:49,609 - com.h3d.ui.base.BaseTest -INFO - Launching the chrome browser
+2023-12-12 14:09:56,755 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //input[@id='formEmail'] element is NOT Present :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.h3d.ui.utilities.Helpers.driver" is null
+2023-12-12 14:09:56,760 - com.h3d.ui.utilities.Helpers -ERROR - unable to enter thenull into the textBox
+2023-12-12 14:09:59,762 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //input[@id='formPassword'] element is NOT Present :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.h3d.ui.utilities.Helpers.driver" is null
+2023-12-12 14:09:59,762 - com.h3d.ui.utilities.Helpers -ERROR - unable to enter thenull into the textBox
+2023-12-12 14:10:02,770 - com.h3d.ui.utilities.Helpers -ERROR - unable to click By.xpath: //label[text()='Password']//following::button[text()='Submit']java.lang.IllegalArgumentException: Driver must be set
+2023-12-12 14:10:02,770 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //input[@id='formEmail']//preceding::div//img element is NOT Present :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.h3d.ui.utilities.Helpers.driver" is null
+2023-12-12 14:10:03,060 - com.h3d.ui.base.BaseTest -INFO - The browser is closed
+2023-12-12 14:21:11,543 - com.h3d.ui.base.BaseTest -INFO - Launching the chrome browser
+2023-12-12 14:21:21,013 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 14:21:21,093 - com.h3d.ui.utilities.Helpers -ERROR - unable to Enter :nulljava.lang.IllegalArgumentException: Keys to send should be a not null CharSequence
+2023-12-12 14:21:24,147 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 14:21:24,198 - com.h3d.ui.utilities.Helpers -ERROR - unable to Enter :nulljava.lang.IllegalArgumentException: Keys to send should be a not null CharSequence
+2023-12-12 14:21:27,238 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 14:21:27,243 - com.h3d.ui.utilities.Helpers -ERROR - Unable to clickable the element :java.lang.NumberFormatException: Cannot parse null string
+2023-12-12 14:21:27,441 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 14:21:27,442 - com.h3d.ui.utilities.Helpers -INFO - Login Successfully
+2023-12-12 14:21:27,878 - com.h3d.ui.base.BaseTest -INFO - The browser is closed
+2023-12-12 14:21:30,285 - com.h3d.ui.base.BaseTest -INFO - Launching the chrome browser
+2023-12-12 14:21:36,786 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 14:21:36,861 - com.h3d.ui.utilities.Helpers -ERROR - unable to Enter :nulljava.lang.IllegalArgumentException: Keys to send should be a not null CharSequence
+2023-12-12 14:21:39,916 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 14:21:39,976 - com.h3d.ui.utilities.Helpers -ERROR - unable to Enter :nulljava.lang.IllegalArgumentException: Keys to send should be a not null CharSequence
+2023-12-12 14:21:43,274 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 14:21:43,276 - com.h3d.ui.utilities.Helpers -ERROR - Unable to clickable the element :java.lang.NumberFormatException: Cannot parse null string
+2023-12-12 14:21:48,469 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 14:21:48,470 - com.h3d.ui.utilities.Helpers -INFO - Login Successfully
+2023-12-12 14:21:48,721 - com.h3d.ui.base.BaseTest -INFO - The browser is closed
+2023-12-12 14:28:35,996 - com.h3d.ui.base.BaseTest -INFO - Launching the chrome browser
+2023-12-12 14:28:45,088 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 14:28:48,130 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 14:28:51,225 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 14:28:51,231 - com.h3d.ui.utilities.Helpers -ERROR - Unable to clickable the element :java.lang.NumberFormatException: Cannot parse null string
+2023-12-12 14:28:51,457 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 14:28:51,458 - com.h3d.ui.utilities.Helpers -INFO - Login Successfully
+2023-12-12 14:28:51,987 - com.h3d.ui.base.BaseTest -INFO - The browser is closed
+2023-12-12 14:28:55,035 - com.h3d.ui.base.BaseTest -INFO - Launching the chrome browser
+2023-12-12 14:29:01,599 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 14:29:04,622 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 14:29:07,678 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 14:29:07,680 - com.h3d.ui.utilities.Helpers -ERROR - Unable to clickable the element :java.lang.NumberFormatException: Cannot parse null string
+2023-12-12 14:29:07,885 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 14:29:07,885 - com.h3d.ui.utilities.Helpers -INFO - Login Successfully
+2023-12-12 14:29:08,308 - com.h3d.ui.base.BaseTest -INFO - The browser is closed
+2023-12-12 14:32:46,773 - com.h3d.ui.base.BaseTest -INFO - Launching the chrome browser
+2023-12-12 14:32:55,750 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 14:32:58,785 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 14:33:01,853 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 14:33:01,861 - com.h3d.ui.utilities.Helpers -ERROR - Unable to clickable the element :java.lang.NumberFormatException: Cannot parse null string
+2023-12-12 14:33:02,066 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 14:33:02,066 - com.h3d.ui.utilities.Helpers -INFO - Login Successfully
+2023-12-12 14:33:02,563 - com.h3d.ui.base.BaseTest -INFO - The browser is closed
+2023-12-12 14:33:05,354 - com.h3d.ui.base.BaseTest -INFO - Launching the chrome browser
+2023-12-12 14:33:11,983 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 14:33:15,025 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 14:33:18,087 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 14:33:18,088 - com.h3d.ui.utilities.Helpers -ERROR - Unable to clickable the element :java.lang.NumberFormatException: Cannot parse null string
+2023-12-12 14:33:18,313 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 14:33:18,314 - com.h3d.ui.utilities.Helpers -INFO - Login Successfully
+2023-12-12 14:33:18,752 - com.h3d.ui.base.BaseTest -INFO - The browser is closed
+2023-12-12 14:41:28,789 - com.h3d.ui.base.BaseTest -INFO - Launching the chrome browser
+2023-12-12 14:41:35,507 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 14:41:38,544 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 14:41:41,635 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 14:41:41,640 - com.h3d.ui.utilities.Helpers -ERROR - Unable to clickable the element :java.lang.NumberFormatException: Cannot parse null string
+2023-12-12 14:41:41,866 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 14:41:41,867 - com.h3d.ui.utilities.Helpers -INFO - Login Successfully
+2023-12-12 14:41:44,246 - com.h3d.ui.base.BaseTest -INFO - Launching the chrome browser
+2023-12-12 14:41:50,838 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 14:41:53,871 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 14:41:56,900 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //label[text()='Password']//following::button[text()='Submit'] element is NOT Present :org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.71)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6ad2a10f3fd788cb3c98d2a67be9b32d, findElement {using=xpath, value=//label[text()='Password']//following::button[text()='Submit']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\SARAVA~1.RAM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63718}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63718/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6ad2a10f3fd788cb3c98d2a67be9b32d
+2023-12-12 14:41:56,902 - com.h3d.ui.utilities.Helpers -ERROR - Unable to clickable the element :java.lang.NumberFormatException: Cannot parse null string
+2023-12-12 14:41:56,918 - com.h3d.ui.utilities.Helpers -ERROR - unable to click By.xpath: //label[text()='Password']//following::button[text()='Submit']org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.71)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6ad2a10f3fd788cb3c98d2a67be9b32d, findElement {using=xpath, value=//label[text()='Password']//following::button[text()='Submit']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\SARAVA~1.RAM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63718}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63718/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6ad2a10f3fd788cb3c98d2a67be9b32d
+2023-12-12 14:41:56,926 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //input[@id='formEmail']//preceding::div//img element is NOT Present :org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.71)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6ad2a10f3fd788cb3c98d2a67be9b32d, findElement {using=xpath, value=//input[@id='formEmail']//preceding::div//img}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\SARAVA~1.RAM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63718}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63718/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6ad2a10f3fd788cb3c98d2a67be9b32d
+2023-12-12 14:48:39,873 - com.h3d.ui.base.BaseTest -INFO - Launching the chrome browser
+2023-12-12 14:48:48,596 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 14:48:51,623 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 14:48:54,711 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 14:48:54,718 - com.h3d.ui.utilities.Helpers -ERROR - Unable to clickable the element :java.lang.NumberFormatException: Cannot parse null string
+2023-12-12 14:48:54,936 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 14:48:54,937 - com.h3d.ui.utilities.Helpers -INFO - Login Successfully
+2023-12-12 14:48:55,461 - com.h3d.ui.base.BaseTest -INFO - The browser is closed
+2023-12-12 14:48:57,992 - com.h3d.ui.base.BaseTest -INFO - Launching the chrome browser
+2023-12-12 14:49:04,362 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 14:49:07,392 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 14:49:10,456 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 14:49:10,458 - com.h3d.ui.utilities.Helpers -ERROR - Unable to clickable the element :java.lang.NumberFormatException: Cannot parse null string
+2023-12-12 14:49:15,660 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 14:49:15,660 - com.h3d.ui.utilities.Helpers -INFO - Login Successfully
+2023-12-12 14:49:15,950 - com.h3d.ui.base.BaseTest -INFO - The browser is closed
+2023-12-12 15:05:22,608 - com.h3d.ui.base.BaseTest -INFO - Launching the chrome browser
+2023-12-12 15:05:31,745 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 15:05:34,773 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 15:05:37,830 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 15:05:37,834 - com.h3d.ui.utilities.Helpers -ERROR - Unable to clickable the element :java.lang.NumberFormatException: Cannot parse null string
+2023-12-12 15:05:43,032 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 15:05:43,033 - com.h3d.ui.utilities.Helpers -INFO - Login Successfully
+2023-12-12 15:05:44,305 - com.h3d.ui.base.BaseTest -INFO - The browser is closed
+2023-12-12 15:09:09,105 - com.h3d.ui.base.BaseTest -INFO - Launching the chrome browser
+2023-12-12 15:09:17,574 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 15:09:20,605 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 15:09:23,698 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 15:09:23,705 - com.h3d.ui.utilities.Helpers -ERROR - Unable to clickable the element :java.lang.NumberFormatException: Cannot parse null string
+2023-12-12 15:09:23,923 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 15:09:23,923 - com.h3d.ui.utilities.Helpers -INFO - Login Successfully
+2023-12-12 15:09:24,706 - com.h3d.ui.base.BaseTest -INFO - The browser is closed
+2023-12-12 15:20:32,073 - com.h3d.ui.base.BaseTest -INFO - Launching the chrome browser
+2023-12-12 15:20:41,272 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 15:20:44,296 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 15:20:47,459 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 15:20:47,472 - com.h3d.ui.utilities.Helpers -ERROR - Unable to clickable the element :java.lang.NumberFormatException: Cannot parse null string
+2023-12-12 15:20:47,820 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 15:20:47,821 - com.h3d.ui.utilities.Helpers -INFO - Login Successfully
+2023-12-12 15:20:48,282 - com.h3d.ui.base.BaseTest -INFO - The browser is closed
+2023-12-12 15:20:50,683 - com.h3d.ui.base.BaseTest -INFO - Launching the chrome browser
+2023-12-12 15:20:57,267 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 15:21:00,301 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 15:21:03,313 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //label[text()='Password']//following::button[text()='Submit'] element is NOT Present :org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.71)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [529dfe6d29389af21f7df1cbbd129317, findElement {using=xpath, value=//label[text()='Password']//following::button[text()='Submit']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\SARAVA~1.RAM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65293}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65293/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 529dfe6d29389af21f7df1cbbd129317
+2023-12-12 15:21:03,315 - com.h3d.ui.utilities.Helpers -ERROR - Unable to clickable the element :java.lang.NumberFormatException: Cannot parse null string
+2023-12-12 15:21:03,319 - com.h3d.ui.utilities.Helpers -ERROR - unable to click By.xpath: //label[text()='Password']//following::button[text()='Submit']org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.71)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [529dfe6d29389af21f7df1cbbd129317, findElement {using=xpath, value=//label[text()='Password']//following::button[text()='Submit']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\SARAVA~1.RAM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65293}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65293/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 529dfe6d29389af21f7df1cbbd129317
+2023-12-12 15:21:03,323 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //input[@id='formEmail']//preceding::div//img element is NOT Present :org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.71)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [529dfe6d29389af21f7df1cbbd129317, findElement {using=xpath, value=//input[@id='formEmail']//preceding::div//img}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\SARAVA~1.RAM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65293}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65293/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 529dfe6d29389af21f7df1cbbd129317
+2023-12-12 15:21:03,492 - com.h3d.ui.base.BaseTest -INFO - The browser is closed
+2023-12-12 15:22:42,692 - com.h3d.ui.base.BaseTest -INFO - Launching the chrome browser
+2023-12-12 15:22:51,574 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 15:22:54,602 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 15:22:57,679 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 15:22:57,685 - com.h3d.ui.utilities.Helpers -ERROR - Unable to clickable the element :java.lang.NumberFormatException: Cannot parse null string
+2023-12-12 15:22:57,903 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 15:22:57,904 - com.h3d.ui.utilities.Helpers -INFO - Login Successfully
+2023-12-12 15:22:58,443 - com.h3d.ui.base.BaseTest -INFO - The browser is closed
+2023-12-12 15:23:00,805 - com.h3d.ui.base.BaseTest -INFO - Launching the chrome browser
+2023-12-12 15:23:03,309 - com.h3d.ui.base.BaseTest -ERROR - Unable to launch the browser org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.71)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e49549bcf1ec25d2a8c94d82ff7a6783, maximizeCurrentWindow {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\SARAVA~1.RAM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65443}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65443/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e49549bcf1ec25d2a8c94d82ff7a6783
+2023-12-12 15:23:06,459 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 15:23:09,474 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 15:23:12,483 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //label[text()='Password']//following::button[text()='Submit'] element is NOT Present :org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.71)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e49549bcf1ec25d2a8c94d82ff7a6783, findElement {using=xpath, value=//label[text()='Password']//following::button[text()='Submit']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\SARAVA~1.RAM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65443}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65443/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e49549bcf1ec25d2a8c94d82ff7a6783
+2023-12-12 15:23:12,486 - com.h3d.ui.utilities.Helpers -ERROR - Unable to clickable the element :java.lang.NumberFormatException: Cannot parse null string
+2023-12-12 15:23:12,491 - com.h3d.ui.utilities.Helpers -ERROR - unable to click By.xpath: //label[text()='Password']//following::button[text()='Submit']org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.71)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e49549bcf1ec25d2a8c94d82ff7a6783, findElement {using=xpath, value=//label[text()='Password']//following::button[text()='Submit']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\SARAVA~1.RAM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65443}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65443/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e49549bcf1ec25d2a8c94d82ff7a6783
+2023-12-12 15:23:12,496 - com.h3d.ui.utilities.Helpers -ERROR - The By.xpath: //input[@id='formEmail']//preceding::div//img element is NOT Present :org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.71)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e49549bcf1ec25d2a8c94d82ff7a6783, findElement {using=xpath, value=//input[@id='formEmail']//preceding::div//img}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\SARAVA~1.RAM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65443}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65443/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e49549bcf1ec25d2a8c94d82ff7a6783
+2023-12-12 15:23:12,632 - com.h3d.ui.base.BaseTest -INFO - The browser is closed
+2023-12-12 15:26:06,282 - com.h3d.ui.base.BaseTest -INFO - Launching the chrome browser
+2023-12-12 15:26:17,296 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 15:26:20,367 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 15:26:23,510 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 15:26:23,517 - com.h3d.ui.utilities.Helpers -ERROR - Unable to clickable the element :java.lang.NumberFormatException: Cannot parse null string
+2023-12-12 15:26:28,783 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 15:26:28,783 - com.h3d.ui.utilities.Helpers -INFO - Login Successfully
+2023-12-12 15:26:30,180 - com.h3d.ui.base.BaseTest -INFO - The browser is closed
+2023-12-12 15:26:34,137 - com.h3d.ui.base.BaseTest -INFO - Launching the chrome browser
+2023-12-12 15:26:41,270 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 15:26:44,336 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 15:26:47,455 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 15:26:47,461 - com.h3d.ui.utilities.Helpers -ERROR - Unable to clickable the element :java.lang.NumberFormatException: Cannot parse null string
+2023-12-12 15:26:52,757 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 15:26:52,758 - com.h3d.ui.utilities.Helpers -INFO - Login Successfully
+2023-12-12 15:26:54,040 - com.h3d.ui.base.BaseTest -INFO - The browser is closed
+2023-12-12 15:39:06,449 - com.h3d.ui.base.BaseTest -INFO - Launching the chrome browser
+2023-12-12 15:39:18,222 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 15:39:21,278 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 15:39:24,408 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 15:39:24,416 - com.h3d.ui.utilities.Helpers -ERROR - Unable to clickable the element :java.lang.NumberFormatException: Cannot parse null string
+2023-12-12 15:39:24,766 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 15:39:24,767 - com.h3d.ui.utilities.Helpers -INFO - Login Successfully
+2023-12-12 15:39:25,456 - com.h3d.ui.base.BaseTest -INFO - The browser is closed
+2023-12-12 15:39:29,313 - com.h3d.ui.base.BaseTest -INFO - Launching the chrome browser
+2023-12-12 15:39:37,341 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 15:39:40,392 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 15:39:43,490 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 15:39:43,493 - com.h3d.ui.utilities.Helpers -ERROR - Unable to clickable the element :java.lang.NumberFormatException: Cannot parse null string
+2023-12-12 15:39:48,762 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 15:39:48,763 - com.h3d.ui.utilities.Helpers -INFO - Login Successfully
+2023-12-12 15:39:50,016 - com.h3d.ui.base.BaseTest -INFO - The browser is closed
+2023-12-12 15:41:58,374 - com.h3d.ui.base.BaseTest -INFO - Launching the chrome browser
+2023-12-12 15:42:06,563 - com.h3d.ui.testScripts.LoginTest -INFO - check{=, UserName=harish@atmecs.com, UserPassword=Admin123}
+2023-12-12 15:42:09,634 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 15:42:12,694 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 15:42:15,835 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 15:42:15,843 - com.h3d.ui.utilities.Helpers -ERROR - Unable to clickable the element :java.lang.NumberFormatException: Cannot parse null string
+2023-12-12 15:42:21,092 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 15:42:21,093 - com.h3d.ui.utilities.Helpers -INFO - Login Successfully
+2023-12-12 15:42:21,607 - com.h3d.ui.base.BaseTest -INFO - The browser is closed
+2023-12-12 15:42:25,247 - com.h3d.ui.base.BaseTest -INFO - Launching the chrome browser
+2023-12-12 15:42:29,417 - com.h3d.ui.testScripts.LoginTest -INFO - check{=, UserName=Harish@atmecs.com, UserPassword=Admin123}
+2023-12-12 15:42:32,487 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 15:42:35,536 - com.h3d.ui.utilities.Helpers -ERROR - Text not get entered
+2023-12-12 15:42:38,650 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 15:42:38,654 - com.h3d.ui.utilities.Helpers -ERROR - Unable to clickable the element :java.lang.NumberFormatException: Cannot parse null string
+2023-12-12 15:42:43,923 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 15:42:43,924 - com.h3d.ui.utilities.Helpers -INFO - Login Successfully
+2023-12-12 15:42:45,206 - com.h3d.ui.base.BaseTest -INFO - The browser is closed
+2023-12-12 15:44:44,809 - com.h3d.ui.base.BaseTest -INFO - Launching the chrome browser
+2023-12-12 15:44:53,857 - com.h3d.ui.testScripts.LoginTest -INFO - check{=, email=harish@atmecs.com, Password=Admin123}
+2023-12-12 15:44:57,181 - com.h3d.ui.utilities.Helpers -INFO - Text is entered
+2023-12-12 15:45:00,415 - com.h3d.ui.utilities.Helpers -INFO - Text is entered
+2023-12-12 15:45:03,599 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 15:45:03,611 - com.h3d.ui.utilities.Helpers -ERROR - Unable to clickable the element :java.lang.NumberFormatException: Cannot parse null string
+2023-12-12 15:45:03,971 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 15:45:03,971 - com.h3d.ui.utilities.Helpers -INFO - Login Successfully
+2023-12-12 15:45:04,948 - com.h3d.ui.base.BaseTest -INFO - The browser is closed
+2023-12-12 15:45:08,900 - com.h3d.ui.base.BaseTest -INFO - Launching the chrome browser
+2023-12-12 15:45:13,232 - com.h3d.ui.testScripts.LoginTest -INFO - check{=, email=Harish@atmecs.com, Password=Admin123}
+2023-12-12 15:45:16,520 - com.h3d.ui.utilities.Helpers -INFO - Text is entered
+2023-12-12 15:45:19,761 - com.h3d.ui.utilities.Helpers -INFO - Text is entered
+2023-12-12 15:45:22,882 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 15:45:22,886 - com.h3d.ui.utilities.Helpers -ERROR - Unable to clickable the element :java.lang.NumberFormatException: Cannot parse null string
+2023-12-12 15:45:23,173 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 15:45:23,174 - com.h3d.ui.utilities.Helpers -INFO - Login Successfully
+2023-12-12 15:45:23,806 - com.h3d.ui.base.BaseTest -INFO - The browser is closed
+2023-12-12 15:51:47,947 - com.h3d.ui.base.BaseTest -INFO - Launching the chrome browser
+2023-12-12 15:51:56,791 - com.h3d.ui.testScripts.LoginTest -INFO - check{=, email=harish@atmecs.com, Password=Admin123}
+2023-12-12 15:52:00,168 - com.h3d.ui.utilities.Helpers -INFO - Text is entered
+2023-12-12 15:52:03,391 - com.h3d.ui.utilities.Helpers -INFO - Text is entered
+2023-12-12 15:52:06,585 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 15:52:06,597 - com.h3d.ui.utilities.Helpers -ERROR - Unable to clickable the element :java.lang.NumberFormatException: Cannot parse null string
+2023-12-12 15:52:06,959 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 15:52:06,961 - com.h3d.ui.utilities.Helpers -INFO - Login Successfully
+2023-12-12 15:52:07,846 - com.h3d.ui.base.BaseTest -INFO - The browser is closed
+2023-12-12 15:52:11,692 - com.h3d.ui.base.BaseTest -INFO - Launching the chrome browser
+2023-12-12 15:52:16,048 - com.h3d.ui.testScripts.LoginTest -INFO - check{=, email=Harish@atmecs.com, Password=Admin123}
+2023-12-12 15:52:19,345 - com.h3d.ui.utilities.Helpers -INFO - Text is entered
+2023-12-12 15:52:22,598 - com.h3d.ui.utilities.Helpers -INFO - Text is entered
+2023-12-12 15:52:25,695 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 15:52:25,701 - com.h3d.ui.utilities.Helpers -ERROR - Unable to clickable the element :java.lang.NumberFormatException: Cannot parse null string
+2023-12-12 15:52:26,002 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 15:52:26,003 - com.h3d.ui.utilities.Helpers -INFO - Login Successfully
+2023-12-12 15:52:26,406 - com.h3d.ui.base.BaseTest -INFO - The browser is closed
+2023-12-12 15:54:38,723 - com.h3d.ui.base.BaseTest -INFO - Launching the chrome browser
+2023-12-12 15:54:46,815 - com.h3d.ui.testScripts.LoginTest -INFO - check{=, email=harish@atmecs.com, Password=Admin123}
+2023-12-12 15:54:50,159 - com.h3d.ui.utilities.Helpers -INFO - Text is entered
+2023-12-12 15:54:53,356 - com.h3d.ui.utilities.Helpers -INFO - Text is entered
+2023-12-12 15:54:56,506 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 15:54:56,836 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 15:54:56,836 - com.h3d.ui.utilities.Helpers -INFO - Login Successfully
+2023-12-12 15:54:57,735 - com.h3d.ui.base.BaseTest -INFO - The browser is closed
+2023-12-12 15:55:01,687 - com.h3d.ui.base.BaseTest -INFO - Launching the chrome browser
+2023-12-12 15:55:10,586 - com.h3d.ui.testScripts.LoginTest -INFO - check{=, email=Harish@atmecs.com, Password=Admin123}
+2023-12-12 15:55:13,870 - com.h3d.ui.utilities.Helpers -INFO - Text is entered
+2023-12-12 15:55:17,119 - com.h3d.ui.utilities.Helpers -INFO - Text is entered
+2023-12-12 15:55:20,237 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 15:55:20,582 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 15:55:20,583 - com.h3d.ui.utilities.Helpers -INFO - Login Successfully
+2023-12-12 15:55:21,205 - com.h3d.ui.base.BaseTest -INFO - The browser is closed
+2023-12-12 15:59:34,664 - com.h3d.ui.base.BaseTest -INFO - Launching the chrome browser
+2023-12-12 15:59:40,746 - com.h3d.ui.testScripts.LoginTest -INFO - check{=, email=harish@atmecs.com, Password=Admin123}
+2023-12-12 15:59:43,939 - com.h3d.ui.utilities.Helpers -INFO - Text is entered
+2023-12-12 15:59:47,079 - com.h3d.ui.utilities.Helpers -INFO - Text is entered
+2023-12-12 15:59:50,151 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 15:59:50,379 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 15:59:50,379 - com.h3d.ui.utilities.Helpers -INFO - Login Successfully
+2023-12-12 15:59:50,852 - com.h3d.ui.base.BaseTest -INFO - The browser is closed
+2023-12-12 15:59:53,078 - com.h3d.ui.base.BaseTest -INFO - Launching the chrome browser
+2023-12-12 15:59:56,851 - com.h3d.ui.testScripts.LoginTest -INFO - check{=, email=Harish@atmecs.com, Password=Admin123}
+2023-12-12 16:00:00,010 - com.h3d.ui.utilities.Helpers -INFO - Text is entered
+2023-12-12 16:00:03,207 - com.h3d.ui.utilities.Helpers -INFO - Text is entered
+2023-12-12 16:00:06,276 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 16:00:06,524 - com.h3d.ui.utilities.Helpers -INFO - The  element is Present 
+2023-12-12 16:00:06,524 - com.h3d.ui.utilities.Helpers -INFO - Login Successfully
+2023-12-12 16:00:06,892 - com.h3d.ui.base.BaseTest -INFO - The browser is closed
